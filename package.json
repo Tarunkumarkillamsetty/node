@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarunkumarkillamsetty/node.git"
+  },
+  "author": "Tarunkumarkillamsetty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tarunkumarkillamsetty/node/issues"
+  },
+  "homepage": "https://github.com/Tarunkumarkillamsetty/node#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

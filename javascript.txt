@@ -1,0 +1,10 @@
+
+
+npm : node package module
+npm init
+
+To run our appln
+    >>node server.js
+    >>npm start
+
+    npm run dev(nodemon)
