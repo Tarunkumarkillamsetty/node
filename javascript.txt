@@ -1,10 +1,22 @@
 
 
 npm : node package module
-npm init
+Node Initilisation
+    >> npm init
 
 To run our appln
     >>node server.js
     >>npm start
 
     npm run dev(nodemon)
+
+
+http status code:
+    >> https://developer.mozilla.org/en-us/docs/web/HTTP/status
+
+http methods:
+    >> GET : Getting data from server
+    >> POST : sending data to server
+    >> DELETE : Deleting data from server
+    >> PATCH : updating certain feilds
+    >> PUT : Full update
